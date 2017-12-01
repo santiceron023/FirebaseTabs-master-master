@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\UdeA\2017-2\moviles\LAB5\FirebaseTabs-master\FirebaseTabs.iml" filepath="D:\UdeA\2017-2\moviles\LAB5\FirebaseTabs-master\FirebaseTabs.iml" />
+      <module fileurl="file://D:\UdeA\2017-2\moviles\FINAL!!!!!\FirebaseTabs-master-master\FirebaseTabs-master-master\FirebaseTabs-master.iml" filepath="D:\UdeA\2017-2\moviles\FINAL!!!!!\FirebaseTabs-master-master\FirebaseTabs-master-master\FirebaseTabs-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirebaseTabs-master-master.iml" filepath="$PROJECT_DIR$/FirebaseTabs-master-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

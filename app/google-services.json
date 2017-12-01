@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1072470473733",
+    "firebase_url": "https://fir-tabs.firebaseio.com",
+    "project_id": "fir-tabs",
+    "storage_bucket": "fir-tabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072470473733:android:3f24c7a3e7b3ebeb",
+        "android_client_info": {
+          "package_name": "com.example.danni.firebasetabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072470473733-bl5ljvfh08jnua7o4iggmie5h37k6ta3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.danni.firebasetabs",
+            "certificate_hash": "44f0e4116eceb81dfe9936419a5365c61ce6b949"
+          }
+        },
+        {
+          "client_id": "1072470473733-q7qlt3t3ib95md5val7j5lum3f0oa5kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZfxRezueUcApFppaQhgj1EF4KJVY_C6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072470473733-q7qlt3t3ib95md5val7j5lum3f0oa5kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
